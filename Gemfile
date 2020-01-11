@@ -5,3 +5,7 @@ source "https://rubygems.org"
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # gem "rails"
+gem "onnxruntime"
+gem "mini_magick"
+gem "pry"
+gem "streamio-ffmpeg"
